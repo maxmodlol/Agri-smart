@@ -1,16 +1,9 @@
 # Agri Smart
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A simple mobile application using flutter .the main feature of it controlling the hardware part of green house .
+It provides an automated, customizable environment to suit the growth of differenttypes of plants.
+The project aims to provide this through a smart embedded sys-tem that controls various environmental aspects.
+These aspects include humidity,temperature, shading, ventilation, light, and plants’ specific aspects. The plants’
+specific aspects include water irrigation, soil sterilization, as well as the compost
+spray cycles, The system will also support remote monitoring and remote control
+via the mobile application implmenting in flutter(dart).
