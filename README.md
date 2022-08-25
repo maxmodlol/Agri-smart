@@ -1,4 +1,4 @@
-# gp22
+# Agri Smart
 
 A new Flutter application.
 
